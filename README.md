@@ -11,3 +11,9 @@ Tareas:
 ` git push origin main `
 5. verificar los cambios
 
+
+---
+> En caso de desear descargar los cambios utiliza:
+`git pull origin main`
+![Image] (https://github.com/fluidicon.png)
+
